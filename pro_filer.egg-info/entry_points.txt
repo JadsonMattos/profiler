@@ -1,0 +1,2 @@
+[console_scripts]
+pro-filer = pro_filer.__main__:typer_app

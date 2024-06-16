@@ -1,0 +1,19 @@
+ignore_files:
+  - pro_filer/__init__.py
+  - pro_filer/__main__.py
+  - pro_filer/cli.py
+  - pro_filer/cli_helpers.py
+  - pro_filer/entities.py
+  - pro_filer/actions/main_actions.py
+  - pro_filer/actions/alpha_actions.py
+  - pro_filer/actions/__init__.py
+  - tests/__init__.py
+  - tests/trybe/
+  - tests/actions/__init__.py
+  - tests/actions/test_deepest_file.py
+  - tests/actions/test_find_file_by_name.py
+  - tests/actions/test_find_file_by_name.py
+  - requirements.txt
+  - setup.cfg
+  - pyproject.toml
+  - trybe.yml
